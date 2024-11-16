@@ -1,0 +1,2 @@
+# Ewallet only java code
+
